@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\akali\desktop\15\3\3\source.cpp(8): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  3.vcxproj -> C:\Users\Akali\Desktop\15\3\Debug\3.exe
+  3.vcxproj -> C:\Users\Akali\Desktop\15\3\Debug\3.pdb (Partial PDB)
